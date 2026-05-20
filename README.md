@@ -6,7 +6,7 @@ I’ve conducted research at MIT and Harvard Medical School, with work focused o
 
 To contact me: mshah3 [at] imsa [dot] edu
 
-<div align="center">
+<div align="left">
 
 <a href="https://mshah3-ai.github.io/">
   <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
