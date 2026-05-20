@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Mithil!
 
-<!--
-**mshah3-ai/mshah3-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently a student at the Illinois Mathematics and Science Academy (IMSA) with interests in machine learning, data science, and healthcare.
 
-Here are some ideas to get you started:
+I’ve conducted research at MIT and Harvard Medical School, with work focused on computational neuroscience, digital biomarkers, speech analysis, and multimodal learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To contact me: mshah3 [at] imsa [dot] edu
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mshah3-ai.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithil-shah-89239a366/)
+
+</div>
